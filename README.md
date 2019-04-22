@@ -14,3 +14,5 @@ http://www.netinstructions.com/how-to-make-a-simple-web-crawler-in-java/
 https://algs4.cs.princeton.edu/42digraph/WebCrawler.java.html
 
 https://www.example-code.com/java/spider_simpleCrawler.asp
+
+Java Webcrawler that searches for keyword:</br>https://stackoverflow.com/questions/29185243/java-webcrawler-that-searches-for-keyword
